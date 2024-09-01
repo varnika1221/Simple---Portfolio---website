@@ -30,5 +30,5 @@ To view the website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://varnika1221.github.io/Simple---Portfolio---website/
 
